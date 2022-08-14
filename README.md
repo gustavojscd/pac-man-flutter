@@ -1,0 +1,2 @@
+# pac-man-flutter
+O jogo pac-main, foi criado em 22 de maio de 1980 e desde então faz sucesso como um jogo icônico e extremamente divertido. Nesse repositório contem o jogo inspirado na versão => https://www.google.com/logos/2010/pacman10-i.html - Pacman Doodle - Google. Busco replicar ao máximo e trazer essa realidade para o flutter utilizando a lib bonfire( https://pub.dev/packages/bonfire ) e Tiled (https://www.mapeditor.org/).
